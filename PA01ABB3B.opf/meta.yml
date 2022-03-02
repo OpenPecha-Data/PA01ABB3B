@@ -1,0 +1,13 @@
+id: PA01ABB3B
+initial_creation_type: input
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: zh
+  volumes:
+    0e7a466b09ff4a4bba93bdd6b0e5a8b3:
+      title: Complete text
+      base_file: Complete text.txt
+      work_id: W03044330
+  chapter_to_tile: {}
+created_at: '2022-03-02T09:07:24.934960'
+last_modified_at: '2022-03-02T09:07:24.934982'
